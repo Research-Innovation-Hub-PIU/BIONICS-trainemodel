@@ -1,7 +1,3 @@
-Here’s a `SECURITY.md` template tailored for the Bionics project, detailing security practices and guidance on reporting issues. This file will help maintain project integrity and guide contributors on handling potential vulnerabilities responsibly.
-
----
-
 # Security Policy
 
 ## 🔒 Supported Versions
