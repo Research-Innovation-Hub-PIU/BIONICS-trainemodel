@@ -76,6 +76,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or to join our team, please contact us at patience.cui.g@GMAIL.com].
 
----
 
-Make sure to replace placeholder image paths (`images/`) with actual image file paths in the repository, and add any additional information specific to your work on bionics. This README should make the project attractive and clear for collaborators and other viewers!
